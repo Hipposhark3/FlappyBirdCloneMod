@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "FlappyBirdModBuild.data.unityweb",
+"asmCodeUrl": "FlappyBirdModBuild.asm.code.unityweb",
+"asmMemoryUrl": "FlappyBirdModBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "FlappyBirdModBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
